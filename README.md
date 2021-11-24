@@ -43,13 +43,28 @@
 </p>
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadihaJarrin" />
-  
 </p>
+
+
+
+
+<p><img width="350" height="200" align="left" src="https://github-readme-stats.vercel.app/api?username=MadihaJarrin&show_icons=true&locale=en&layout=compact" alt="MadihaJarrin" /></p> 
+
+<p>&nbsp;<img width="410" height="200" align="right" src="https://https://github-readme-streak-stats.herokuapp.com/?user=MadihaJarrin&show_icons=true&locale=en" alt="MadihaJarrin" /></p> 
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=fahimahammed)](https://github.com/ryo-ma/github-profile-trophy) -->
+
+<!-- contribution graph -->
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=MadihaJarrin" alt="MadihaJarrin" /><p/>
+
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MadihaJarrin)  
 
-#### Reward 
+
 <p align="center">
+ #### Reward 
   <img src="https://github-profile-trophy.vercel.app/?username=MadihaJarrin" />
 </p>
 
