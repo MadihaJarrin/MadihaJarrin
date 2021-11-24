@@ -36,14 +36,24 @@
 
 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eashovon&show_icons=true&theme=tokyonight&line_height=52" />
+  <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eashovon&count_private=true&theme=tokyonight&line_height=52" />
+</p>
+<p align="center">
+  <img width="37.2%" src="https://github-readme-streak-stats.herokuapp.com/?user=eashovon&theme=dark" />
+</p>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MadihaJarrin&show_icons=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MadihaJarrin) 
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MadihaJarrin)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MadihaJarrin)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadihaJarrin)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MadihaJarrin&show_icons=true)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MadihaJarrin)  
+ 
 
   
