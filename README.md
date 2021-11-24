@@ -36,13 +36,7 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eashovon&show_icons=true&theme=tokyonight&line_height=52" />
-  <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eashovon&count_private=true&theme=tokyonight&line_height=52" />
-</p>
-<p align="center">
-  <img width="37.2%" src="https://github-readme-streak-stats.herokuapp.com/?user=eashovon&theme=dark" />
-</p>
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MadihaJarrin&show_icons=true)  
 
