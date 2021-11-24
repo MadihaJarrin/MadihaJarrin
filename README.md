@@ -38,10 +38,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MadihaJarrin&show_icons=true" />
-  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadihaJarrin" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadihaJarrin" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadihaJarrin)](https://github.com/anuraghazra/github-readme-stats)" />
 </p>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MadihaJarrin)  
