@@ -1,3 +1,4 @@
+![Profile views](https://gpvc.arturio.dev/MadihaJarrin)
 <h1 align="center">Hi There👋, I'm madiha Jarrin</h1>
 <h3 align="center">Mainly I am MERN Stack Developer. I'm ready to work hard for the success of my career. I also like to learn new things .</h3>
 
@@ -5,7 +6,7 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-Skills:  REACT / JS / HTML / CSS / MONGODB / MATERIAL UI / BOOTSRTAP / TAILWIND
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,4 +27,4 @@ Skills:  REACT / JS / HTML / CSS / MONGODB / MATERIAL UI / BOOTSRTAP / TAILWIND
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MadihaJarrin)  
 
-![Profile views](https://gpvc.arturio.dev/MadihaJarrin)  
+  
