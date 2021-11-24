@@ -47,16 +47,6 @@
 
 
 
-
-<p><img width="350" height="200" align="left" src="https://github-readme-stats.vercel.app/api?username=MadihaJarrin&show_icons=true&locale=en&layout=compact" alt="MadihaJarrin" /></p> 
-
-<p>&nbsp;<img width="410" height="200" align="right" src="https://https://github-readme-streak-stats.herokuapp.com/?user=MadihaJarrin&show_icons=true&locale=en" alt="MadihaJarrin" /></p> 
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=MadihaJarrin" alt="MadihaJarrin" /><p/>
-
-
-
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MadihaJarrin" />
 </p>
