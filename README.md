@@ -1,20 +1,10 @@
 ![Profile views](https://gpvc.arturio.dev/MadihaJarrin)
 <h1 align="center">Hi There👋, I'm madiha Jarrin</h1>
 <h3 align="center">Mainly I am MERN Stack Developer. I'm ready to work hard for the success of my career. I also like to learn new things .</h3>
-(https://i.pinimg.com/originals/eb/78/c7/eb78c789943e0300c82a25cce8ef8ab0.gif)
-![I am GitHub Readme Generator's creator](https://i.pinimg.com/originals/eb/78/c7/eb78c789943e0300c82a25cce8ef8ab0.gif)
 
 - 📫 How to reach me **madihajarrin1@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
-
-
-
-
-
-
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
