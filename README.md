@@ -1,7 +1,8 @@
 ![Profile views](https://gpvc.arturio.dev/MadihaJarrin)
 <h1 align="center">Hi There👋, I'm madiha Jarrin</h1>
 <h3 align="center">Mainly I am MERN Stack Developer. I'm ready to work hard for the success of my career. I also like to learn new things .</h3>
-
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+ 
 - 📫 How to reach me **madihajarrin1@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
@@ -42,7 +43,7 @@
 </p>
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadihaJarrin" />
-   <img src="(https://github.com/anuraghazra/github-readme-stats" />
+  
 </p>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MadihaJarrin)  
