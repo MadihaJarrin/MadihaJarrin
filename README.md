@@ -52,19 +52,12 @@
 
 <p>&nbsp;<img width="410" height="200" align="right" src="https://https://github-readme-streak-stats.herokuapp.com/?user=MadihaJarrin&show_icons=true&locale=en" alt="MadihaJarrin" /></p> 
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=fahimahammed)](https://github.com/ryo-ma/github-profile-trophy) -->
-
-<!-- contribution graph -->
-
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=MadihaJarrin" alt="MadihaJarrin" /><p/>
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MadihaJarrin)  
-
 
 <p align="center">
- #### Reward 
   <img src="https://github-profile-trophy.vercel.app/?username=MadihaJarrin" />
 </p>
 
