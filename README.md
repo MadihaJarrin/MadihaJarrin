@@ -39,7 +39,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MadihaJarrin&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadihaJarrin" />
+  
 </p>
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadihaJarrin" />
